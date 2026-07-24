@@ -1,8 +1,8 @@
 # TrackTalk
 
-基于 **MiMo-V2.5**（视频理解 + TTS 语音合成）和 **DeepSeek-V4-Flash**（对话生成）的赛车游戏 AI 解说系统。自动录制游戏画面，两位虚拟解说员以 F1 / WRC 风格进行实时解说（**支持中文/English 双语言**），语音从扬声器播放，屏幕底部叠加圆角字幕。
+基于 **MiMo-V2.5**（视频理解 + TTS 语音合成）和 **DeepSeek-V4-Flash**（对话生成）的赛车游戏 AI 解说系统。自动录制游戏画面，两位虚拟解说员以 F1 / WRC 风格进行实时解说（**支持中文/English 双语言**），语音从扬声器播放，屏幕底部叠加字幕。
 
-> 英文版文档 [README_EN.md](README_EN.md)
+> English [README_EN.md](README_EN.md)
 
 ---
 
