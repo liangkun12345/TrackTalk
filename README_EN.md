@@ -229,6 +229,8 @@ Change `MALE_VOICE`/`FEMALE_VOICE` for Chinese, or `MALE_VOICE_EN`/`FEMALE_VOICE
 ### Q: How to modify commentary behavior?
 Edit `prompts.toml` — no code changes needed. Restart the app to reload.
 
+## use opencode + deepseek
+
 ## License
 
 MIT — see [LICENSE](LICENSE). MiMo API usage follows [Xiaomi MiMo Terms](https://mimo.mi.com/docs/quick-start/terms/user-agreement). DeepSeek API usage follows [DeepSeek Terms](https://platform.deepseek.com/terms).
