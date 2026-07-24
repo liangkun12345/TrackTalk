@@ -1,6 +1,6 @@
 # TrackTalk
 
-An AI-powered racing game commentary system built on **MiMo-V2.5** (video understanding + TTS) and **DeepSeek-V4-Flash** (dialogue generation). Automatically captures gameplay, generates F1 / WRC / Le Mans-style commentary in Chinese or English, synthesizes speech, and overlays rounded subtitles on screen.
+An AI-powered racing game commentary system built on **MiMo-V2.5** (video understanding + TTS) and **DeepSeek-V4-Flash** (dialogue generation). Automatically captures gameplay, generates F1 / WRC / Le Mans-style commentary in Chinese or English, synthesizes speech, and overlays subtitles on screen.
 
 ---
 
